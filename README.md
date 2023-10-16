@@ -1,6 +1,6 @@
 # Terraform Beginner Bootcamp 2023
 
-## Semantinc Versioning
+## Semantinc Versioning :mage:
 
 This project is going utilize semantinc versioning for its tagging. [semver.org](https://semver.org/)
 
